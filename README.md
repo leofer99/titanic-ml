@@ -107,29 +107,3 @@ The pipeline expects Titanic data in CSV format:
 
 Download Titanic dataset from [Kaggle](https://www.kaggle.com/c/titanic/data).
 
----
-
-## 📌 Requirements
-
-See `requirements.txt` for full dependencies:
-
-* pandas
-* numpy
-* scikit-learn
-* seaborn
-* matplotlib
-
----
-
-## ✨ Future Improvements
-
-* Add exploratory analysis visualizations
-* Support for additional ML algorithms (XGBoost, SVM, etc.)
-* Save trained models and results
-* Deploy as a web app (e.g., Streamlit)
-
----
-
-## 👩‍💻 Authors
-
-* DACO Project Team – University of Porto
