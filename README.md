@@ -1,6 +1,6 @@
 # Titanic ML Pipeline
 
-This project provides a **unified machine learning pipeline** for predicting passenger survival on the Titanic dataset. It merges data cleaning, feature engineering, exploratory analysis, model training, evaluation, and hyperparameter tuning into a single reusable framework.
+This project provides a **machine learning pipeline** for predicting passenger survival on the Titanic dataset. It performs data cleaning, feature engineering, exploratory analysis, model training, evaluation, and hyperparameter tuning.
 
 ---
 
