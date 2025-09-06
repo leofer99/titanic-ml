@@ -11,7 +11,6 @@ This project provides a **machine learning pipeline** for predicting passenger s
 ├── pipeline.py          # Core functions (data loading, preprocessing, training, evaluation, tuning)
 ├── train.csv            # Titanic training dataset
 ├── test.csv             # Titanic test dataset (optional, otherwise train is split)
-├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 ```
 
